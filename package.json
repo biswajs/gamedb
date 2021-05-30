@@ -1,0 +1,16 @@
+{
+  "name": "gamedb",
+  "version": "1.1.0",
+  "description": "game database - find games details with rate limit api.",
+  "main": "core.js",
+  "scripts": {
+    "test": "dev.js"
+  },
+  "keywords": [
+    "gamedb",
+    "game-database",
+    "database-game"
+  ],
+  "author": "Biswa",
+  "license": "ISC"
+}
