@@ -11,6 +11,17 @@
     "game-database",
     "database-game"
   ],
+  "bugs": {
+    "url": "https://github.com/biswajs/dembed/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajs/gamedb.git"
+  },
   "author": "Biswa",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1"
+  }
 }
